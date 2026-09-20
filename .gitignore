@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor / OS noise
+.vscode/
+.DS_Store
