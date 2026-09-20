@@ -1,4 +1,24 @@
-# Brand Guardian Compliance QA Pipeline
+# Brand Guardian: Azure LLMOps Video Compliance Project
+
+## GitHub project title
+
+Brand Guardian: Azure LLMOps Video Compliance Project
+
+## Tags
+
+- azure
+- llmops
+- ai
+- rag
+- langgraph
+- fastapi
+- video-compliance
+- compliance-ai
+- azure-openai
+- machine-learning
+- python
+- llm
+- document-indexing
 
 ## Overview
 
@@ -589,3 +609,5 @@ If you want, the next step can be to add:
 2. a PostgreSQL audit history storage layer
 3. a deployment configuration for AWS or Azure
 4. a production-ready Docker setup
+#   A z u r e - L L M - o p s - V i d e o - C o m p l i a n c e  
+ 
